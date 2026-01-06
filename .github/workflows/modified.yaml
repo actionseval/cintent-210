@@ -1,5 +1,6 @@
 name: CI
 
+
 # CINTENT >> MANUAL TRIGGER
 # on: [ push ]
 on: [repository_dispatch, workflow_dispatch]
